@@ -4,7 +4,7 @@ Welcome to Origin, a pioneering company dedicated to leveraging technology to tr
 
 ## Mission 🌟
 
-At Origin, our mission is to develop and improve technology in the F&B market, with a focus on enhancing the dining experience for both consumers and professionals. We are committed to utilizing cutting-edge technology to address the evolving needs of the industry and provide innovative solutions that streamline operations, improve efficiency, and ensure customer satisfaction. 💡
+We empower individuals and organizations to access highly personalized 👤, nutritionally optimized 🧬 meals through a tech-driven platform 📱 that connects every aspect of food production 🏭, customization 🎯, and delivery 🚚. From central kitchens 👨‍🍳 to smart packaging 📦 and AI-driven meal planning 🤖, ORIGIN ensures that every bite not only fuels the body 💪 but tells a story 📖—designed with purpose, crafted with care, and delivered with precision 🎯.
 
 ## User-Focused App for Meal Management 📱🥗
 
